@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=8RAJouN065g
 
 Código:
 
-https://es.slideshare.net/DavidVelascoGarcia/programacin-robot-industrial-de-almacenaje-en-lenguaje-de-contactos
+https://github.com/davidvelascogarcia/Industrial-storage-robot_Contacts-Language
 
 +info
 
