@@ -1,13 +1,15 @@
 # Industrial storage: Robot Contacts Language
 
-## Index
+- [Introducción](#introducción)
+- [Enlaces de interés](#enlaces-de-interés)
 
-	1. Descripción
-	2. Referencias
+## Introducción
 
-## Contenido
-	1. Descripción
 Controlador en lenguaje de contactos para robot industrial de almacenaje en célula de fabricación flexible
+
+![image](https://lh5.googleusercontent.com/proxy/vGWvchnGezc2uO4n4UlR6K0oYKoXPTZ7U_efA-Lig6Q_vCwjo4VVCgZ-1zBv7O8lefaQvJ3CLwJpDihH)
+
+Figura 1. Robot de almacenaje
 
 **Robot de almacenaje en célula de fabricación flexible.**
 Programación en lenguaje de contactos de robot de almacenaje.
@@ -21,18 +23,16 @@ Escuela Politécnica Superior, E.P.S.*
 *Grado en Ingeniería en Tecnologías Industriales.
 Intensificación en Automática y Electrónica.*
 
-![image](https://lh5.googleusercontent.com/proxy/vGWvchnGezc2uO4n4UlR6K0oYKoXPTZ7U_efA-Lig6Q_vCwjo4VVCgZ-1zBv7O8lefaQvJ3CLwJpDihH)
+[Video de funcionamiento](https://www.youtube.com/watch?v=8RAJouN065g)
 
-Figura 1. Robot de almacenaje
+[Descarga del programa](https://github.com/davidvelascogarcia/Industrial-storage-robot_Contacts-Language)
 
-+info
+[Documentación de la aplicación](https://es.slideshare.net/DavidVelascoGarcia/programacin-robot-industrial-de-almacenaje-en-lenguaje-de-contactos)
 
-[Video](https://www.youtube.com/watch?v=8RAJouN065g)
+## Enlaces de interés
 
-[Código](https://github.com/davidvelascogarcia/Industrial-storage-robot_Contacts-Language)
+[Video de funcionamiento](https://www.youtube.com/watch?v=8RAJouN065g)
 
-[Documentación](https://es.slideshare.net/DavidVelascoGarcia/programacin-robot-industrial-de-almacenaje-en-lenguaje-de-contactos)
+[Descarga del programa](https://github.com/davidvelascogarcia/Industrial-storage-robot_Contacts-Language)
 
-	2. Referencias
-
-***Proximamente...***
+[Documentación de la aplicación](https://es.slideshare.net/DavidVelascoGarcia/programacin-robot-industrial-de-almacenaje-en-lenguaje-de-contactos)
