@@ -11,23 +11,22 @@ Controlador en lenguaje de contactos para robot industrial de almacenaje en cél
 
 Figura 1. Robot de almacenaje
 
-**Robot de almacenaje en célula de fabricación flexible.**
 Programación en lenguaje de contactos de robot de almacenaje.
 
-*Automatización Industrial II.*
-*David Velasco García.*
+```
+Automatización Industrial II.
+Universidad Carlos III  de Madrid.
+Escuela Politécnica Superior, E.P.S.
+Grado en Ingeniería en Tecnologías Industriales.
+Intensificación en Automática y Electrónica.
+```
 
-*Universidad Carlos III  de Madrid.
-Escuela Politécnica Superior, E.P.S.*
+- [Video de funcionamiento](https://www.youtube.com/watch?v=8RAJouN065g)
 
-*Grado en Ingeniería en Tecnologías Industriales.
-Intensificación en Automática y Electrónica.*
+- [Descarga del programa](https://github.com/davidvelascogarcia/Industrial-storage-robot_Contacts-Language)
 
-[Video de funcionamiento](https://www.youtube.com/watch?v=8RAJouN065g)
+- [Documentación de la aplicación](https://es.slideshare.net/DavidVelascoGarcia/programacin-robot-industrial-de-almacenaje-en-lenguaje-de-contactos)
 
-[Descarga del programa](https://github.com/davidvelascogarcia/Industrial-storage-robot_Contacts-Language)
-
-[Documentación de la aplicación](https://es.slideshare.net/DavidVelascoGarcia/programacin-robot-industrial-de-almacenaje-en-lenguaje-de-contactos)
 
 ## Enlaces de interés
 
