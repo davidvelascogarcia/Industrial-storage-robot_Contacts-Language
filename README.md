@@ -1,5 +1,9 @@
 # Industrial storage: Robot Contacts Language
 
+[![industrial-storage-robot-contacts-language Homepage](https://img.shields.io/badge/industrial_storage_robot_contacts_language-master-orange.svg)](https://github.com/davidvelascogarcia/industrial-storage-robot-contacts-language/tree/master/docs) [![Latest Release](https://img.shields.io/github/tag/davidvelascogarcia/industrial-storage-robot-contacts-language.svg?label=Latest%20Release)](https://github.com/davidvelascogarcia/tesseractOCR/tags)
+[![Build Status](https://travis-ci.org/davidvelascogarcia/industrial-storage-robot-contacts-language.svg?branch=master)](https://travis-ci.org/davidvelascogarcia/industrial-storage-robot-contacts-language)
+
+
 - [Introducción](#introducción)
 - [Listado de programas](#listado-de-programas)
 - [Enlaces de interés](#enlaces-de-interés)
@@ -31,6 +35,12 @@ Intensificación en Automática y Electrónica.
 ## Listado de programas
 
 Se adjunta el listado de aplicaciones implementadas en [./programs](./programs).
+
+## Status
+
+[![Build Status](https://travis-ci.org/davidvelascogarcia/industrial-storage-robot-contacts-language.svg?branch=master)](https://travis-ci.org/davidvelascogarcia/industrial-storage-robot-contacts-language)
+
+[![Issues](https://img.shields.io/github/issues/davidvelascogarcia/industrial-storage-robot-contacts-language.svg?label=Issues)](https://github.com/davidvelascogarcia/tesseractOCR/issues)
 
 ## Enlaces de interés
 
